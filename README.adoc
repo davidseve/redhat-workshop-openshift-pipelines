@@ -1,5 +1,5 @@
 # Red Hat Workshop - Openshift Pipelines
- 
+  
 ## Introduction
 
 _Red Hat Workshop Openshift Pipelines_ is a repository which includes a tutorial with a set of practices for the purpose of practicing with Openshift Pipelines.

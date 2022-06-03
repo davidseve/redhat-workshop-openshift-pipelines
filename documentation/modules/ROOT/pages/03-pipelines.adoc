@@ -619,7 +619,7 @@ execution will happen.
 [.console-input]
 [source,input,subs="+macros,+attributes"]
 ----
-git push origin main
+git push origin master
 ----
 
 For more details about how to create a webhook, please, review this
